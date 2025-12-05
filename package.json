@@ -1,0 +1,18 @@
+{
+  "name": "project-managment",
+  "version": "1.0.0",
+  "description": "a project managment application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "udemy"
+  ],
+  "author": "Aaditya Patil",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
