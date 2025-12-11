@@ -6,6 +6,7 @@ Features Implemented
 🛠 Development Setup
 
 -Added Prettier for consistent code formatting
+
 -Added Git project structure & commit standards
 
 🌐 Express Server
